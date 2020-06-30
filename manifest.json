@@ -6,7 +6,7 @@
     "description": "Give a quick shout out to Christina Applegate through opening a new tab",
   
     "icons": {
-      "48": "icons/ca.png"
+      "48": "icons/ca3.png"
     },
     "permissions": [
        
@@ -20,8 +20,8 @@
     },
     "browser_action": {
         "default_icon": {
-          "20": "icons/ca.png",
-          "40": "icons/ca.png"
+          "20": "icons/ca2.png",
+          "40": "icons/ca4.png"
         },
         "default_title": "Christina Applegate!",
         "default_popup": "ca_Tab.html"
